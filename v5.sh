@@ -45,3 +45,4 @@ sudo snap install pycharm-community --classic
 
 systemctl enable sshd.service
 systemctl enable lightdm.service --force
+#test
